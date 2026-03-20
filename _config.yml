@@ -179,6 +179,7 @@ exclude:
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
+  - docs/
   - docker-compose.yml
   - docker-compose-slim.yml
   - FAQ.md
@@ -189,7 +190,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -636,8 +636,6 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-#  - data: resume
-#    json: assets/json/resume.json # it can also be an url
   - data: resume_en-us
     json: assets/json/resume_en-us.json # it can also be an url
   - data: resume_zh-cn
