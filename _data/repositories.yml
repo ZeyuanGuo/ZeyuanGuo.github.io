@@ -1,14 +1,13 @@
 github_users:
-  - diaoenmao
+  - ZeyuanGuo
 
 repo_description_lines_max: 2
 
 github_repos:
-  - diaoenmao/DRASIC-Distributed-Recurrent-Autoencoder-for-Scalable-Image-Compression
-  - diaoenmao/Dimension-Reduced-Turbulent-Flow-Data-From-Deep-Vector-Quantizers
-  - diaoenmao/GAL-Gradient-Assisted-Learning-for-Decentralized-Multi-Organization-Collaborations
-  - diaoenmao/HeteroFL-Computation-and-Communication-Efficient-Federated-Learning-for-Heterogeneous-Clients
-  - diaoenmao/Pruning-Deep-Neural-Networks-from-a-Sparsity-Perspective
-  - diaoenmao/Restricted-Recurrent-Neural-Networks
-  - diaoenmao/SemiFL-Semi-Supervised-Federated-Learning-for-Unlabeled-Clients-with-Alternate-Training
-  - diaoenmao/Speech-Emotion-Recognition-with-Dual-Sequence-LSTM-Architecture
+  - BUPT-GAMMA/Graph-Tokenization-for-Bridging-Graphs-and-Transformers
+  - BUPT-GAMMA/ggfm
+  - ZeyuanGuo/Video-Auto-Translator
+  - ZeyuanGuo/VideoZip
+  - ZeyuanGuo/textQuery
+  - ZeyuanGuo/DSlab
+  - ZeyuanGuo/tools

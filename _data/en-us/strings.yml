@@ -26,7 +26,7 @@ citation:
 collections:
   books: books
   posts: posts
-contact_note: diao_em@hotmail.com
+contact_note: guozeyuan@bupt.edu.cn
 cv:
   address: Address
   area: Area
@@ -161,5 +161,5 @@ search:
     title: Use system default theme
   theme: Theme
 selected_publications: selected publications
-site_description: A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design
-title: Enmao Diao
+site_description: Academic homepage of Zeyuan Guo.
+title: Zeyuan Guo

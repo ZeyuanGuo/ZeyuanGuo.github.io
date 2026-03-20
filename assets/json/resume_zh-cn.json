@@ -1,66 +1,89 @@
 {
   "basics": {
-    "name": "刁恩茂",
-    "label": "",
+    "name": "郭泽远",
+    "label": "博士生",
     "image": "",
-    "email": "diao_em@hotmail.com",
-    "url": "https://www.diaoenmao.com"
+    "email": "guozeyuan@bupt.edu.cn",
+    "url": "https://zeyuanguo.github.io"
   },
   "experience": [
     {
-      "name": "灵机一梦",
-      "position": "创始人（CEO）兼首席研究员",
-      "startDate": "2024-09",
-      "endDate": "现在",
-      "highlights": "创立一家人工智能基础设施公司，致力于构建 AI 原生操作系统。"
-    },
-    {
-      "name": "杜克大学，美国北卡罗来纳州达勒姆市",
-      "position": "博士后研究员",
-      "startDate": "2023-10",
-      "endDate": "2024-01",
-      "highlights": "开发高效协作的分布式机器学习方法，并研究基于得分的算法。"
-    },
-    {
-      "name": "亚马逊 Alexa，美国马萨诸塞州剑桥市",
-      "position": "应用科学家",
-      "startDate": "2022-02",
-      "endDate": "2022-09",
-      "highlights": "研究半监督和个性化的联邦学习，并将其应用于 Alexa 设备。"
+      "name": "北京邮电大学（BUPT）",
+      "position": "博士生",
+      "startDate": "2025",
+      "endDate": "",
+      "highlights": [
+        "正式导师为石川教授，当前在刁恩茂老师指导下开展研究。",
+        "隶属于 GAMMALab。",
+        "研究兴趣包括图机器学习、图基础模型、Transformer 与生成式建模。"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "杜克大学，美国北卡罗来纳州达勒姆市",
-      "studyType": "电气工程博士",
-      "startDate": "2018-08",
-      "endDate": "2023-09",
+      "institution": "北京邮电大学（BUPT）",
+      "studyType": "计算机科学与技术博士",
+      "area": "081200",
+      "startDate": "2025",
+      "endDate": "",
       "courses": [
-        "受 <a href='https://ece.duke.edu/faculty/vahid-tarokh'>Prof. Vahid Tarokh</a>和<a href='http://jding.org/'>Prof. Jie Ding</a>的指导"
+        "在读。"
       ]
     },
     {
-      "institution": "哈佛大学，美国马萨诸塞州剑桥市",
-      "studyType": "工程科学硕士",
-      "startDate": "2016-08",
-      "endDate": "2018-05",
-      "courses": [
-        "受 <a href='https://ece.duke.edu/faculty/vahid-tarokh'>Prof. Vahid Tarokh</a>和<a href='http://jding.org/'>Prof. Jie Ding</a>的指导"
-      ]
-    },
-     {
-      "institution": "佐治亚理工学院，美国佐治亚州亚特兰大",
-      "studyType": "电气工程与计算机科学学士",
-      "startDate": "2012-08",
-      "endDate": "2016-05",
-      "courses": [
-        "最高荣誉"
-      ]
+      "institution": "北京邮电大学（BUPT）",
+      "studyType": "计算机科学与技术本科",
+      "startDate": "2021",
+      "endDate": "2025",
+      "courses": []
     }
   ],
   "volunteer": [],
   "certificates": [],
-  "publications": [],
+  "publications": [
+    {
+      "name": "Graph Tokenization for Bridging Graphs and Transformers",
+      "publisher": "ICLR 2026",
+      "releaseDate": "2026-01",
+      "url": "https://openreview.net/forum?id=jCctxI1BGF",
+      "summary": "主页采用会议版本。"
+    },
+    {
+      "name": "Internet Scan Source Identification: A Survey",
+      "publisher": "IEEE Network",
+      "releaseDate": "2026-01",
+      "url": "https://doi.org/10.1109/MNET.2025.3574126",
+      "summary": "互联网扫描源识别综述。"
+    },
+    {
+      "name": "Benchmarking Graph Foundation Models",
+      "publisher": "KDD 2025",
+      "releaseDate": "2025-08",
+      "url": "https://doi.org/10.1145/3711896.3737410",
+      "summary": "图基础模型基准评测。"
+    },
+    {
+      "name": "CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models",
+      "publisher": "SIGIR 2025",
+      "releaseDate": "2025-07",
+      "url": "https://doi.org/10.1145/3726302.3729937",
+      "summary": "面向图推荐的大模型粗到细框架。"
+    },
+    {
+      "name": "Masked Language Models are Good Heterogeneous Graph Generalizers",
+      "publisher": "CoRR / arXiv",
+      "releaseDate": "2025-06",
+      "url": "https://doi.org/10.48550/arXiv.2506.06157",
+      "summary": "面向异构图泛化的掩码语言模型。"
+    },
+    {
+      "name": "A Hierarchical PoW-Powered Access Mechanism for Shuffling-Based Moving Target Defense System",
+      "publisher": "IWCMC 2024",
+      "releaseDate": "2024-05",
+      "url": "https://doi.org/10.1109/IWCMC61514.2024.10592503",
+      "summary": "面向移动目标防御系统的分层 PoW 接入机制。"
+    }
+  ],
   "skills": [],
   "languages": [
     {
@@ -72,7 +95,17 @@
       "fluency": "流利"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "研究兴趣",
+      "keywords": [
+        "图机器学习",
+        "图基础模型",
+        "Transformer",
+        "生成式建模"
+      ]
+    }
+  ],
   "references": [],
   "projects": []
 }

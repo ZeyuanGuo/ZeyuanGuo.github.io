@@ -2,23 +2,23 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Enmao Diao # the website title (if blank, full name will be used instead)
-first_name: Enmao
+title: Zeyuan Guo # the website title (if blank, full name will be used instead)
+first_name: Zeyuan
 middle_name:
-last_name: Diao
+last_name: Guo
 contact_note: >
-  diao_em@hotmail.com
+  guozeyuan@bupt.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website
+  Academic homepage of Zeyuan Guo.
 #footer_text:
 #  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: Enmao Diao # add your own keywords or leave empty
+keywords: Zeyuan Guo, 郭泽远, Graph Machine Learning, Graph Foundation Models # add your own keywords or leave empty
 #lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://www.diaoenmao.com # the base hostname & protocol for your site
+url: https://zeyuanguo.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -268,8 +268,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Diao]
-  first_name: [Enmao Diao]
+  last_name: [Guo]
+  first_name: [Zeyuan, Zeyuan Guo]
 
   style: apa
   locale: en

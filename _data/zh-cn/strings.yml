@@ -26,7 +26,7 @@ citation:
 collections:
   books: 图书
   posts: 文章
-contact_note: diao_em@hotmail.com
+contact_note: guozeyuan@bupt.edu.cn
 cv:
   address: 地址
   area: 领域
@@ -161,5 +161,5 @@ search:
     title: 使用系统默认主题
   theme: 主题
 selected_publications: 精选出版物
-site_description: 一个简洁的学术主题，基于 [*folio](https://github.com/bogoli/-folio) 设计
-title: 刁恩茂
+site_description: 郭泽远的个人学术主页。
+title: 郭泽远
