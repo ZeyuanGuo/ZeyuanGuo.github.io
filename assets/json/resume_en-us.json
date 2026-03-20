@@ -6,16 +6,16 @@
     "email": "guozeyuan@bupt.edu.cn",
     "url": "https://zeyuanguo.github.io"
   },
-  "experience": [
+  "work": [
     {
       "name": "Beijing University of Posts and Telecommunications (BUPT)",
       "position": "Ph.D. Student",
       "startDate": "2025",
       "endDate": "",
       "highlights": [
-        "Advised by Prof. Chuan Shi and currently conducting research under the guidance of Enmao Diao.",
+        "Supervised by Prof. Chuan Shi, with research guidance from Enmao Diao.",
         "Affiliated with GAMMALab.",
-        "Research interests include graph machine learning, graph foundation models, transformers, and generative modeling."
+        "Research focuses on graph machine learning and graph foundation models."
       ]
     }
   ],
@@ -51,7 +51,7 @@
     {
       "name": "Internet Scan Source Identification: A Survey",
       "publisher": "IEEE Network",
-      "releaseDate": "2026-01",
+      "releaseDate": "2025-05",
       "url": "https://doi.org/10.1109/MNET.2025.3574126",
       "summary": "Survey article on Internet scan source identification."
     },
@@ -99,10 +99,7 @@
     {
       "name": "Research Interests",
       "keywords": [
-        "Graph Machine Learning",
-        "Graph Foundation Models",
-        "Transformers",
-        "Generative Modeling"
+        "Graph Machine Learning, Graph Foundation Models, Transformers, Generative Modeling"
       ]
     }
   ],

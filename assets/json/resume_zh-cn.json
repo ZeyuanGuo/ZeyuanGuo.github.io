@@ -6,14 +6,14 @@
     "email": "guozeyuan@bupt.edu.cn",
     "url": "https://zeyuanguo.github.io"
   },
-  "experience": [
+  "work": [
     {
       "name": "北京邮电大学（BUPT）",
       "position": "博士生",
       "startDate": "2025",
       "endDate": "",
       "highlights": [
-        "正式导师为石川教授，当前在刁恩茂老师指导下开展研究。",
+        "师从石川教授，并在刁恩茂老师指导下围绕图机器学习与图基础模型开展研究。",
         "隶属于 GAMMALab。",
         "研究兴趣包括图机器学习、图基础模型、Transformer 与生成式建模。"
       ]
@@ -42,46 +42,46 @@
   "certificates": [],
   "publications": [
     {
-      "name": "Graph Tokenization for Bridging Graphs and Transformers",
+      "name": "连接图与 Transformer 的图标记化方法",
       "publisher": "ICLR 2026",
       "releaseDate": "2026-01",
       "url": "https://openreview.net/forum?id=jCctxI1BGF",
-      "summary": "主页采用会议版本。"
+      "summary": "Graph Tokenization for Bridging Graphs and Transformers"
     },
     {
-      "name": "Internet Scan Source Identification: A Survey",
+      "name": "互联网扫描源识别综述",
       "publisher": "IEEE Network",
-      "releaseDate": "2026-01",
+      "releaseDate": "2025-05",
       "url": "https://doi.org/10.1109/MNET.2025.3574126",
-      "summary": "互联网扫描源识别综述。"
+      "summary": "Internet Scan Source Identification: A Survey"
     },
     {
-      "name": "Benchmarking Graph Foundation Models",
+      "name": "图基础模型基准评测",
       "publisher": "KDD 2025",
       "releaseDate": "2025-08",
       "url": "https://doi.org/10.1145/3711896.3737410",
-      "summary": "图基础模型基准评测。"
+      "summary": "Benchmarking Graph Foundation Models"
     },
     {
-      "name": "CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models",
+      "name": "CORONA：大语言模型驱动的图推荐粗到细框架",
       "publisher": "SIGIR 2025",
       "releaseDate": "2025-07",
       "url": "https://doi.org/10.1145/3726302.3729937",
-      "summary": "面向图推荐的大模型粗到细框架。"
+      "summary": "CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models"
     },
     {
-      "name": "Masked Language Models are Good Heterogeneous Graph Generalizers",
+      "name": "掩码语言模型具备良好的异构图泛化能力",
       "publisher": "CoRR / arXiv",
       "releaseDate": "2025-06",
       "url": "https://doi.org/10.48550/arXiv.2506.06157",
-      "summary": "面向异构图泛化的掩码语言模型。"
+      "summary": "Masked Language Models are Good Heterogeneous Graph Generalizers"
     },
     {
-      "name": "A Hierarchical PoW-Powered Access Mechanism for Shuffling-Based Moving Target Defense System",
+      "name": "面向洗牌式移动目标防御系统的分层 PoW 接入机制",
       "publisher": "IWCMC 2024",
       "releaseDate": "2024-05",
       "url": "https://doi.org/10.1109/IWCMC61514.2024.10592503",
-      "summary": "面向移动目标防御系统的分层 PoW 接入机制。"
+      "summary": "A Hierarchical PoW-Powered Access Mechanism for Shuffling-Based Moving Target Defense System"
     }
   ],
   "skills": [],
@@ -99,10 +99,7 @@
     {
       "name": "研究兴趣",
       "keywords": [
-        "图机器学习",
-        "图基础模型",
-        "Transformer",
-        "生成式建模"
+        "图机器学习、图基础模型、Transformer、生成式建模"
       ]
     }
   ],
