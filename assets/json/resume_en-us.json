@@ -13,9 +13,11 @@
       "startDate": "2025",
       "endDate": "",
       "highlights": [
-        "Supervised by Prof. Chuan Shi, with research guidance from Enmao Diao.",
+        "Started the Ph.D. program in Computer Science and Technology at BUPT in 2025 after completing the B.Eng. program there from 2021 to 2025.",
+        "Advised by Prof. Chuan Shi, with research focused on graph machine learning and graph foundation models.",
+        "Working with Enmao Diao on Transformer-based sequence modeling, tokenization, autoregressive modeling, and flow matching.",
         "Affiliated with GAMMALab.",
-        "Research focuses on graph machine learning and graph foundation models."
+        "Current interests include graph machine learning, graph foundation models, Transformer-based sequence modeling, autoregressive modeling, and flow matching."
       ]
     }
   ],
@@ -27,7 +29,7 @@
       "startDate": "2025",
       "endDate": "",
       "courses": [
-        "Currently enrolled."
+        "Started in 2025; currently enrolled."
       ]
     },
     {
@@ -35,7 +37,9 @@
       "studyType": "Bachelor's Degree in Computer Science and Technology",
       "startDate": "2021",
       "endDate": "2025",
-      "courses": []
+      "courses": [
+        "Started in 2021; graduated in 2025."
+      ]
     }
   ],
   "volunteer": [],
@@ -99,7 +103,11 @@
     {
       "name": "Research Interests",
       "keywords": [
-        "Graph Machine Learning, Graph Foundation Models, Transformers, Generative Modeling"
+        "Graph Machine Learning",
+        "Graph Foundation Models",
+        "Transformer-based Sequence Modeling",
+        "Autoregressive Modeling",
+        "Flow Matching"
       ]
     }
   ],

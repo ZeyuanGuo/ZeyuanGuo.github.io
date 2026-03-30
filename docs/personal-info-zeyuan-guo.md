@@ -1,6 +1,6 @@
 # Zeyuan Guo 个人信息整理
 
-更新时间：2026-03-21
+更新时间：2026-03-30
 
 > 说明：
 > 1. 本文件只记录当前能够从你提供的 Google Scholar 与 GitHub 页面，以及这些页面直接指向的论文原始页面中确认的信息。
@@ -17,7 +17,7 @@
 - Google Scholar 主页显示机构原文：`beijing university of post and communication, PhD student`
 - 当前研究组/关联实验室：GAMMALab
 - 正式导师：Prof. Chuan Shi
-- 当前研究指导老师：Enmao Diao
+- 相关方向合作老师：Enmao Diao
 - 邮箱：guozeyuan@bupt.edu.cn
 - Google Scholar 验证邮箱域名：`bupt.edu.cn`
 - Google Scholar 关键词：`networkAI`
@@ -29,19 +29,17 @@
 
 ### 已确认
 
-- 你目前是北京邮电大学博士生。
-- 你此前也在北京邮电大学获得了本科阶段学位。
+- 你目前是北京邮电大学博士研究生。
+- 你于 2021 年进入北京邮电大学计算机科学与技术专业本科，2025 年本科毕业，并于同年进入博士阶段。
 - 本科专业：计算机科学与技术
 - 本科时间：2021--2025
 - 博士专业：计算机科学与技术
 - 博士专业代码：081200
 - 博士阶段：2025--2030（在读）
 - 你的研究大方向是机器学习。
-- 你当前特别关注的方向包括：
-  - 图机器学习
-  - Transformer
-  - 生成式建模
-  - 图基础模型
+- 当前较准确的方向划分是：
+  - 在 Chuan Shi 指导下：图机器学习、图基础模型
+  - 与 Enmao Diao 合作关注：基于 Transformer 的序列建模、tokenization、自回归建模、Flow Matching
 
 ### 目前无法从给定页面确认
 
@@ -50,12 +48,14 @@
 
 ## 三、研究兴趣
 
-GitHub 主页 README 中明确列出的研究兴趣：
+当前建议用于主页与简历的研究兴趣表述：
 
 - Graph machine learning
-- Transformers and generative models
-- Representation learning on structured data
 - Graph foundation models
+- Transformer-based sequence modeling
+- Tokenization
+- Autoregressive modeling
+- Flow matching
 
 ## 四、GitHub 账号信息
 
