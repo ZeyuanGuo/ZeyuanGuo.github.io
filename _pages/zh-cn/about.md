@@ -25,6 +25,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-现为[北京邮电大学](https://english.bupt.edu.cn/)计算机科学与技术专业博士生，导师为[石川教授](https://shichuan.org/)，博士阶段同时接受[刁恩茂老师](https://www.diaoenmao.com/)指导。
+现为[北京邮电大学](https://english.bupt.edu.cn/)计算机科学与技术专业博士生，导师为[石川教授](https://shichuan.org/)，科研工作同时得到[刁恩茂老师](https://www.diaoenmao.com/)指导。
 2025 年于北京邮电大学获得计算机科学与技术学士学位，同年进入博士阶段。
 当前主要关注图基础模型、自回归建模、流匹配与 tokenization。

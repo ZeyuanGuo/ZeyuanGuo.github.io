@@ -17,7 +17,7 @@
 - Google Scholar 主页显示机构原文：`beijing university of post and communication, PhD student`
 - 当前研究组/关联实验室：GAMMALab
 - 正式导师：Prof. Chuan Shi
-- 相关方向合作老师：Enmao Diao
+- 科研指导老师：Enmao Diao
 - 邮箱：guozeyuan@bupt.edu.cn
 - Google Scholar 验证邮箱域名：`bupt.edu.cn`
 - Google Scholar 关键词：`networkAI`
@@ -38,7 +38,7 @@
 - 博士阶段：2025--2030（在读）
 - 你的研究大方向是机器学习。
 - 当前建议用于主页与简历的表述是：
-  - 身份关系写为：导师为 Chuan Shi，博士阶段同时接受 Enmao Diao 指导
+  - 身份关系写为：导师为 Chuan Shi，科研工作同时得到 Enmao Diao 指导
   - 研究兴趣写为：图基础模型、自回归建模、流匹配、tokenization
 
 ### 目前无法从给定页面确认

@@ -22,6 +22,7 @@
   - 移除不准确的“工作经历”区块与 `label` 字段展示。
   - 将研究兴趣进一步统一为“图基础模型 / Graph Foundation Models、自回归建模 / AR Modeling、流匹配 / Flow Matching、tokenization / Tokenization”。
   - 将英语能力调整为“学术阅读与写作”口径。
+  - 将导师关系进一步明确为“石川为唯一导师，刁恩茂提供科研指导”。
 - 已根据新增要求补充出版物信息：
   - 将 ICLR 等会议简称直接写入文献来源字段。
   - 为简历页出版物增加 `Code` 按钮。
