@@ -1,26 +1,12 @@
 {
   "basics": {
     "name": "Zeyuan Guo",
-    "label": "Ph.D. Student",
+    "label": "",
     "image": "",
     "email": "guozeyuan@bupt.edu.cn",
     "url": "https://zeyuanguo.github.io"
   },
-  "work": [
-    {
-      "name": "Beijing University of Posts and Telecommunications (BUPT)",
-      "position": "Ph.D. Student",
-      "startDate": "2025",
-      "endDate": "",
-      "highlights": [
-        "Started the Ph.D. program in Computer Science and Technology at BUPT in 2025 after completing the B.Eng. program there from 2021 to 2025.",
-        "Advised by Prof. Chuan Shi, with research focused on graph machine learning and graph foundation models.",
-        "Working with Enmao Diao on Transformer-based sequence modeling, tokenization, autoregressive modeling, and flow matching.",
-        "Affiliated with GAMMALab.",
-        "Current interests include graph machine learning, graph foundation models, Transformer-based sequence modeling, autoregressive modeling, and flow matching."
-      ]
-    }
-  ],
+  "work": [],
   "education": [
     {
       "institution": "Beijing University of Posts and Telecommunications (BUPT)",
@@ -96,18 +82,17 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Academic reading and writing"
     }
   ],
   "interests": [
     {
       "name": "Research Interests",
       "keywords": [
-        "Graph Machine Learning",
         "Graph Foundation Models",
-        "Transformer-based Sequence Modeling",
-        "Autoregressive Modeling",
-        "Flow Matching"
+        "Autoregressive (AR) Modeling",
+        "Flow Matching",
+        "Tokenizer Design"
       ]
     }
   ],

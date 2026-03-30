@@ -1,26 +1,12 @@
 {
   "basics": {
     "name": "郭泽远",
-    "label": "博士研究生",
+    "label": "",
     "image": "",
     "email": "guozeyuan@bupt.edu.cn",
     "url": "https://zeyuanguo.github.io"
   },
-  "work": [
-    {
-      "name": "北京邮电大学（BUPT）",
-      "position": "博士研究生",
-      "startDate": "2025",
-      "endDate": "",
-      "highlights": [
-        "2025 年起在北京邮电大学计算机科学与技术专业攻读博士学位；此前于 2021--2025 年在同校完成计算机科学与技术本科培养。",
-        "师从石川教授，主要围绕图机器学习与图基础模型开展研究。",
-        "在刁恩茂老师指导下，关注基于 Transformer 的序列建模、tokenization、自回归建模与 Flow Matching。",
-        "隶属于 GAMMALab。",
-        "研究兴趣包括图机器学习、图基础模型、基于 Transformer 的序列建模、自回归建模与 Flow Matching。"
-      ]
-    }
-  ],
+  "work": [],
   "education": [
     {
       "institution": "北京邮电大学（BUPT）",
@@ -96,18 +82,17 @@
     },
     {
       "language": "英语",
-      "fluency": "流利"
+      "fluency": "学术阅读与写作"
     }
   ],
   "interests": [
     {
       "name": "研究兴趣",
       "keywords": [
-        "图机器学习",
         "图基础模型",
-        "基于 Transformer 的序列建模",
-        "自回归建模",
-        "Flow Matching"
+        "自回归（AR）建模",
+        "流匹配（Flow Matching）",
+        "tokenizer 设计"
       ]
     }
   ],

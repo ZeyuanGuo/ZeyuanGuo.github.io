@@ -29,7 +29,7 @@
 
 ### 已确认
 
-- 你目前是北京邮电大学博士研究生。
+- 你目前是北京邮电大学博士生。
 - 你于 2021 年进入北京邮电大学计算机科学与技术专业本科，2025 年本科毕业，并于同年进入博士阶段。
 - 本科专业：计算机科学与技术
 - 本科时间：2021--2025
@@ -37,9 +37,9 @@
 - 博士专业代码：081200
 - 博士阶段：2025--2030（在读）
 - 你的研究大方向是机器学习。
-- 当前较准确的方向划分是：
-  - 在 Chuan Shi 指导下：图机器学习、图基础模型
-  - 与 Enmao Diao 合作关注：基于 Transformer 的序列建模、tokenization、自回归建模、Flow Matching
+- 当前建议用于主页与简历的表述是：
+  - 身份关系写为：导师为 Chuan Shi，同时与 Enmao Diao 合作开展研究
+  - 研究兴趣写为：图基础模型、自回归（AR）建模、流匹配（Flow Matching）、tokenizer 设计
 
 ### 目前无法从给定页面确认
 
@@ -50,12 +50,10 @@
 
 当前建议用于主页与简历的研究兴趣表述：
 
-- Graph machine learning
 - Graph foundation models
-- Transformer-based sequence modeling
-- Tokenization
-- Autoregressive modeling
+- Autoregressive (AR) modeling
 - Flow matching
+- Tokenizer design
 
 ## 四、GitHub 账号信息
 
