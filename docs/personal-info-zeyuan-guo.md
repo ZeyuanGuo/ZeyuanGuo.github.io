@@ -38,8 +38,8 @@
 - 博士阶段：2025--2030（在读）
 - 你的研究大方向是机器学习。
 - 当前建议用于主页与简历的表述是：
-  - 身份关系写为：导师为 Chuan Shi，同时与 Enmao Diao 合作开展研究
-  - 研究兴趣写为：图基础模型、自回归（AR）建模、流匹配（Flow Matching）、tokenizer 设计
+  - 身份关系写为：导师为 Chuan Shi，博士阶段同时接受 Enmao Diao 指导
+  - 研究兴趣写为：图基础模型、自回归建模、流匹配、tokenization
 
 ### 目前无法从给定页面确认
 
@@ -51,9 +51,9 @@
 当前建议用于主页与简历的研究兴趣表述：
 
 - Graph foundation models
-- Autoregressive (AR) modeling
+- AR modeling
 - Flow matching
-- Tokenizer design
+- Tokenization
 
 ## 四、GitHub 账号信息
 

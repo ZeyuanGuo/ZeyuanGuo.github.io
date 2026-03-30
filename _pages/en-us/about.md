@@ -9,7 +9,7 @@ profile:
   align: left
   image:
   image_circular: true # crops the image to make it circular
-  more_info: <strong>Research Interests</strong> <br> Graph Foundation Models, Autoregressive (AR) Modeling, Flow Matching, Tokenizer Design
+  more_info: <strong>Research Interests</strong> <br> Graph Foundation Models, AR Modeling, Flow Matching, Tokenization
   goal: <center><em></em></center>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -25,6 +25,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a Ph.D. student in Computer Science and Technology at [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/), advised by [Prof. Chuan Shi](https://shichuan.org/), and I also work closely with [Enmao Diao](https://www.diaoenmao.com/).
-I entered BUPT in 2021 as an undergraduate majoring in Computer Science and Technology, received my bachelor's degree in 2025, and started my Ph.D. in the same year.
-My current interests include graph foundation models, autoregressive (AR) modeling, flow matching, and tokenizer design.
+I am a Ph.D. student in Computer Science and Technology at [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/), advised by [Prof. Chuan Shi](https://shichuan.org/), and I also receive guidance from [Enmao Diao](https://www.diaoenmao.com/).
+I received my bachelor's degree in Computer Science and Technology from BUPT in 2025 and started my Ph.D. in the same year.
+My current interests include graph foundation models, AR modeling, flow matching, and tokenization.
